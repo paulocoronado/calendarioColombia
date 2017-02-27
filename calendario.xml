@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<fecha>
+<tipo>1</tipo>
+<día>1</día>
+<mes>1</mes>
+<descripción>Circuncisión del señor</descripción>
+</fecha>
+<fecha>
+<tipo>1</tipo>
+<día>8</día>
+<mes>12</mes>
+<descripción>Inmaculada Concepción</descripción>
+</fecha>
+<fecha>
+<tipo>1</tipo>
+<día>25</día>
+<mes>12</mes>
+<descripción>Navidad</descripción>
+</fecha>
+<fecha>
+<tipo>1</tipo>
+<día>1</día>
+<mes>5</mes>
+<descripción>Día del Trabajo</descripción>
+</fecha>
+<fecha>
+<tipo>1</tipo>
+<día>20</día>
+<mes>7</mes>
+<descripción>Grito de la Independencia</descripción>
+</fecha>
+<fecha>
+<tipo>1</tipo>
+<día>7</día>
+<mes>8</mes>
+<descripción>Batalla de Boyaca</descripción>
+</fecha>
+<fecha>
+<tipo>2</tipo>
+<día>6</día>
+<mes>1</mes>
+<descripción>Epifanía</descripción>
+</fecha>
+<tipo>2</tipo>
+<día>19</día>
+<mes>3</mes>
+<descripción>San José</descripción>
+</fecha>
+<tipo>2</tipo>
+<día>29</día>
+<mes>6</mes>
+<descripción>San Pedro y San Pablo</descripción>
+</fecha>
+<tipo>2</tipo>
+<día>15</día>
+<mes>8</mes>
+<descripción>Asunción de la Virgen</descripción>
+</fecha>
+<tipo>2</tipo>
+<día>1</día>
+<mes>11</mes>
+<descripción>Todos los Santos</descripción>
+</fecha>
+<tipo>2</tipo>
+<día>12</día>
+<mes>10</mes>
+<descripción>Día de la Raza</descripción>
+</fecha>
+<tipo>2</tipo>
+<día>11</día>
+<mes>11</mes>
+<descripción>Independencia de Cartagena</descripción>
+</fecha>
+<tipo>3</tipo>
+<día>0</día>
+<mes>0</mes>
+<descripción>Domingo de Ramos</descripción>
+</fecha>
+<tipo>3</tipo>
+<día>0</día>
+<mes>0</mes>
+<descripción>Jueves Santo</descripción>
+</fecha>
+<tipo>3</tipo>
+<día>0</día>
+<mes>0</mes>
+<descripción>Viernes Santo</descripción>
+</fecha>
+<tipo>3</tipo>
+<día>0</día>
+<mes>0</mes>
+<descripción>Domingo de Pascua</descripción>
+</fecha>
+<tipo>4</tipo>
+<día>0</día>
+<mes>0</mes>
+<descripción>Ascensión de Jesús</descripción>
+</fecha>
+<tipo>4</tipo>
+<día>0</día>
+<mes>0</mes>
+<descripción>Corpus Christi</descripción>
+</fecha>
+<tipo>4</tipo>
+<día>0</día>
+<mes>0</mes>
+<descripción>Sagrado Corazón</descripción>
+</fecha>
